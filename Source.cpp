@@ -13,6 +13,7 @@ public:
 	}
 
 	void jump(){
-		string value = "I am jumping";
+		string value = "I am jumpin";
+		// some comment
 	}
 };
