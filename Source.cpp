@@ -11,4 +11,8 @@ public:
 		int sum = x + y;
 		return sum;
 	}
+
+	void jump(){
+		string value = "I am jumping";
+	}
 };
